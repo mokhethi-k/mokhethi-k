@@ -33,12 +33,13 @@
 
 ## 🛠️ Tech Stack
 
-```html
+```
 💻 Languages:
   - JavaScript (Node.js)
   - Python
   - C for embedded
   - SQL
+  -html
 
 🧰 Tools & Frameworks:
   - Express.js, Django, EJS
@@ -51,3 +52,40 @@
   - ESP32, Arduino, PLC basics
   - SCADA systems (Ignition, TIA Portal)
   - Instrumentation and control wiring
+```
+---
+<h3>📚Projects & Highlights</h3>
+
+**🏭Smart Plant MES (In Progress)**: A self-hosted Manufacturing Execution System prototype built with Node.js and MQTT that collects, processes, and visualizes shop floor data.
+
+**Features**: Real-time equipment status, downtime tracking, production reporting
+
+**Tech**: Node.js, MongoDB, WebSockets, InfluxDB, ESP32
+
+---
+<h3>🌐 Unified Namespace Gateway (Prototype)</h3>
+<p>Converts legacy machine protocols into MQTT topics to connect with a Unified Namespace.</p>
+
+- Edge device: ESP32 with C++ + MQTT
+- Integrate with: Mosquitto broker, Node-Red Dashboard
+---
+
+<h3>💼 ALX Projects</h3>
+<p>AirBnB Clone Backend - RESTful API using Flask & SQLAlchemy</p>
+
+- Simple Shell - Custom UNIX shell in C
+
+- Portfolio Website - HTML, CSS, and JavaScript
+---
+
+<h3>🧭 Career Goals</h3>
+
+- 🔧 Become a Control & Automation Software Engineer bridging IT & OT systems
+
+- 🌐 Build scalable, real-time industrial data pipelines
+
+- 💼 Join a team creating Industry 4.0 solutions, MES, or Smart Factory platforms
+---
+- 📧 Email: mokhethikabelo@gmail.com
+- 🔗 LinkedIn: [Kabelo Mokhethi](https://www.linkedin.com/in/kabelo-mokhethi/)
+- 🌐 Portfolio: [Portfolio](https://sites.google.com/view/kabelomokhethi/bio)
