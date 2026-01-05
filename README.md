@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mokhethi-k">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+    <img src="https://komarev.com/ghpvc/?username=mokhethi-k&label=Profile%20views&color=0e75b6&style=flat" alt="mokhethi-k" />
   </a>
   <a href="https://www.linkedin.com/in/kabelo-mokhethi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
